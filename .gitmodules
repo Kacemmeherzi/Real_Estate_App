@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Kacemmeherzi/gestion_immobiliers_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Kacemmeherzi/gestion_immobiliers_front-.git
